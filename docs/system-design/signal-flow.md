@@ -7,6 +7,21 @@ questions, but the diagrams are simple enough for anyone.
 
 ---
 
+## Physical wiring diagram
+
+The diagram below shows the actual physical connections (cabling) between the
+equipment.
+
+![Physical wiring diagram of the AV system](../assets/wiring-diagram-v3.png)
+
+!!! warning "Draft diagram — work in progress"
+    This is an early rough draft (**v3**). It will be replaced once Mills IT
+    has confirmed every connection and channel on site. Treat the **logical
+    diagrams below** and the [Equipment List](equipment-list.md) as the more
+    reliable reference until this wiring diagram is finalised.
+
+---
+
 ## The whole system
 
 ```mermaid

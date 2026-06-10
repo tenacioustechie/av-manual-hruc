@@ -1,0 +1,128 @@
+site_name: Highfield Road Uniting Church — AV Documentation
+site_description: >-
+  Practical operating and support documentation for the audio, video,
+  livestream and presentation system at Highfield Road Uniting Church.
+site_author: Mills IT
+copyright: >-
+  Maintained by Mills IT for Highfield Road Uniting Church.
+
+# ---------------------------------------------------------------------------
+# Theme
+# ---------------------------------------------------------------------------
+theme:
+  name: material
+  language: en
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.sections
+    - navigation.top
+    - navigation.indexes
+    - toc.follow
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+  palette:
+    # Light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: deep orange
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+    # Dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: deep orange
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
+  font:
+    text: Roboto
+    code: Roboto Mono
+  icon:
+    admonition:
+      note: material/pencil
+      warning: material/alert
+      danger: material/alert-octagon
+      tip: material/lightbulb
+
+# ---------------------------------------------------------------------------
+# Extensions — these enable callout boxes, diagrams, tables, etc.
+# ---------------------------------------------------------------------------
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.keys
+  - tables
+  - attr_list
+  - md_in_html
+  - toc:
+      permalink: true
+
+# ---------------------------------------------------------------------------
+# Plugins
+# ---------------------------------------------------------------------------
+plugins:
+  - search
+
+# ---------------------------------------------------------------------------
+# Navigation
+# ---------------------------------------------------------------------------
+nav:
+  - Home: index.md
+  - Quick Start:
+      - Sunday Startup: quick-start/sunday-startup.md
+      - Running a Service: quick-start/service-operation.md
+      - Sunday Shutdown: quick-start/sunday-shutdown.md
+  - Audio:
+      - Audio Overview: audio/overview.md
+      - QU-5D Mixer: audio/qu5d-overview.md
+      - Microphone Guide: audio/microphone-guide.md
+      - Foyer Mix: audio/foyer-mix.md
+      - Livestream Mix: audio/livestream-mix.md
+  - Video:
+      - Video Overview: video/overview.md
+      - RodeCaster Video: video/rodecaster-video.md
+      - Camera Operation: video/camera-operation.md
+      - PTZ Controller: video/ptz-controller.md
+  - Presentation:
+      - PowerPoint Operation: presentation/powerpoint-operation.md
+      - StreamDeck Buttons: presentation/streamdeck-buttons.md
+  - Displays:
+      - TV Distribution: displays/tv-distribution.md
+      - Bluestream Matrix: displays/bluestream-matrix.md
+  - Troubleshooting:
+      - No Sound: troubleshooting/no-sound.md
+      - No Livestream Audio: troubleshooting/no-livestream-audio.md
+      - No Camera Video: troubleshooting/no-camera-video.md
+      - Camera Not Moving: troubleshooting/camera-not-moving.md
+      - TV Not Working: troubleshooting/tv-not-working.md
+      - PowerPoint Not Displaying: troubleshooting/powerpoint-not-displaying.md
+  - System Design:
+      - Equipment List: system-design/equipment-list.md
+      - Signal Flow: system-design/signal-flow.md
+      - Network Overview: system-design/network-overview.md
+  - Maintenance:
+      - Battery Replacement: maintenance/battery-replacement.md
+      - Cleaning: maintenance/cleaning.md
+      - Regular Checks: maintenance/regular-checks.md
+  - Training:
+      - Volunteer Training: training/volunteer-training.md
+      - Glossary: training/glossary.md
+
+extra:
+  generator: false

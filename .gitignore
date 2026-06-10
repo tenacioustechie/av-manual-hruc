@@ -1,0 +1,17 @@
+# MkDocs build output
+/site/
+
+# Python virtual environments
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Local Claude Code config
+.claude/
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

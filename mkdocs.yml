@@ -3,8 +3,12 @@ site_description: >-
   Practical operating and support documentation for the audio, video,
   livestream and presentation system at Highfield Road Uniting Church.
 site_author: Mills IT
+site_url: https://hruc-av-manual.bmills.link/
 copyright: >-
   Maintained by Mills IT for Highfield Road Uniting Church.
+
+repo_url: https://github.com/tenacioustechie/av-manual-hruc
+repo_name: tenacioustechie/av-manual-hruc
 
 # ---------------------------------------------------------------------------
 # Theme

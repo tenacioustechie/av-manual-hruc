@@ -1,73 +1,78 @@
 # Sunday Startup
 
 This page tells you how to turn the whole system on before the **9:30am**
-service. Aim to start **at least 45 minutes early** so there is time to fix
-anything that goes wrong.
+service. Aim to start **45 minutes early** so there is time to troubleshoot
+anything not as expected.
 
-!!! tip "The short version"
-    1. Turn on the **power** at the wall.
-    2. Turn on the **QU-5D mixer**.
-    3. Turn on the **speakers**.
-    4. Turn on the **presentation PC** and the **StreamDeck**.
-    5. Turn on the **TVs** and the **cameras**.
-    6. Turn on the **RodeCaster Video**.
-    7. Check sound, slides, cameras, then **start the livestream**.
+!!! tip "The short version, start on the desk, and work accross"
+
+    1. Turn on the PTZ controller (rocker switch back right, near top)
+    2. Turn on the Rode Caster Video (Red push button once, back right)
+    3. Turn on the A&H QU-5D Mixer (push button back right, near bottom power cable)
+    4. Turn on the computer (push button on front of mini PC in rack)
+    5. Turn on Foyer amp (switch on front of amp at front of rack)
+    6. Turn on small devices (back of rack, power switch on top power strip)
+    7. Turn on both speakers (light switches on back of rack on the floor)
+    8. Check sound, slides, cameras, then **start the livestream at 9:25am**.
 
 Follow the full steps below in order. Do not skip steps.
 
 ---
 
-## Step 1 — Power on at the wall
+## Step 1 — Turn on the PTZ controller
 
-Switch on the main power points for the AV rack and the speakers.
+The **AVKANS Joy Pro Controller** is the joystick box that moves the cameras.
 
-!!! note "Why this first"
-    Everything else needs power. Turning the wall power on first means the
-    equipment is ready when you switch it on individually.
+1. Find the **rocker switch** at the **back right, near the top** of the
+   controller.
+2. Switch it **on**.
 
-📷 *Screenshot placeholder: photo of the wall power switches with labels.*
+➡️ More detail: [PTZ Controller](../video/ptz-controller.md)
+
+📷 *Screenshot placeholder: PTZ controller rocker switch (back right, near top).*
 
 ---
 
-## Step 2 — Turn on the audio mixer (QU-5D)
+## Step 2 — Turn on the RodeCaster Video
+
+The **RodeCaster Video** is the box that mixes the cameras together and sends
+the livestream to YouTube.
+
+1. Press the **red push button** **once** — it is at the **back right**.
+2. Wait for its screen to load.
+
+➡️ More detail: [RodeCaster Video](../video/rodecaster-video.md)
+
+📷 *Screenshot placeholder: RodeCaster Video red power button (back right).*
+
+---
+
+## Step 3 — Turn on the audio mixer (QU-5D)
 
 The **Allen & Heath QU-5D** is the large mixing desk. It controls all sound.
 
-1. Find the power switch on the **rear** of the QU-5D.
+1. Find the **push button** at the **back right, near the bottom power cable**.
 2. Press it to **On**.
 3. Wait for the screen to finish loading (about 30–60 seconds).
 
 !!! warning "Always turn the mixer on BEFORE the speakers"
     If the speakers are already on, switching other gear on can make a loud
-    "pop" through them. Mixer first, speakers last.
+    "pop" through them. The mixer is turned on now (Step 3); the speakers come
+    on **last** (Step 7).
 
 ➡️ More detail: [QU-5D Mixer](../audio/qu5d-overview.md)
 
-📷 *Screenshot placeholder: QU-5D power switch location.*
+📷 *Screenshot placeholder: QU-5D power button (back right, near bottom power cable).*
 
 ---
 
-## Step 3 — Turn on the speakers
+## Step 4 — Turn on the computer
 
-We use **JBL SRX812P** powered speakers in the main auditorium.
+The **presentation PC** is the small **Windows mini PC (NUC)** in the rack. It
+runs **PowerPoint** (the slides) and **Bitfocus Companion** (the automation
+that makes the StreamDeck buttons work).
 
-1. Switch on each main speaker (the power switch is on the back).
-2. Switch on the **foyer amplifier** so the foyer speakers work.
-
-!!! note "What you should hear"
-    Nothing yet — that is normal. No microphones are open at this point.
-
-📷 *Screenshot placeholder: JBL speaker power switch and foyer amplifier.*
-
----
-
-## Step 4 — Turn on the presentation PC and StreamDeck
-
-The **presentation PC** is the small **Windows NUC** computer. It runs
-**PowerPoint** (the slides) and **Bitfocus Companion** (the automation that
-makes the StreamDeck buttons work).
-
-1. Press the power button on the **NUC**.
+1. Press the **power button on the front of the mini PC** in the rack.
 2. Wait for Windows to load and log in (it may log in automatically).
 3. Check the **StreamDeck XL** (the panel of buttons) lights up.
 
@@ -78,45 +83,69 @@ makes the StreamDeck buttons work).
 
 ➡️ More detail: [StreamDeck Buttons](../presentation/streamdeck-buttons.md)
 
-📷 *Screenshot placeholder: NUC power button and StreamDeck XL lit up.*
+📷 *Screenshot placeholder: mini PC power button on the front of the rack.*
 
 ---
 
-## Step 5 — Turn on the TVs and cameras
+## Step 5 — Turn on the foyer amplifier
 
-1. Turn on the **Front TV Left**, **Front TV Right** and the **Rear
-   Confidence Monitor** (the screen that faces the speaker so they can see the
-   slides).
-2. Turn on the two cameras:
-    - **Camera 1** — the **RoboShot HDMI 12** (front of church).
-    - **Camera 2** — the **AVKANS 20X PTZ Camera Pro**.
+The **foyer amplifier** drives the foyer speakers so people in the foyer can
+hear the service.
+
+1. Find the **switch on the front of the amplifier**, at the **front of the
+   rack**.
+2. Switch it **on**.
+
+➡️ More detail: [Foyer Mix](../audio/foyer-mix.md)
+
+📷 *Screenshot placeholder: foyer amplifier power switch (front of rack).*
+
+---
+
+## Step 6 — Turn on the small devices
+
+This powers the supporting equipment in the rack.
+
+1. At the **back of the rack**, find the **power switch on the top power
+   strip**.
+2. Switch it **on**.
 
 !!! note "The cameras may move on their own"
     When the cameras power on they "wake up" and may turn to point straight
     ahead. This is normal.
 
-➡️ More detail: [TV Distribution](../displays/tv-distribution.md) ·
-[Camera Operation](../video/camera-operation.md)
+!!! note "Confirm what is on this power strip"
+    *[Mills IT to confirm]* — the top power strip is expected to power the
+    supporting devices such as the **cameras**, the **Bluestream HDMI matrix**
+    and the **network/TV equipment**. Update this note once the exact list is
+    confirmed on site.
 
-📷 *Screenshot placeholder: TV power, camera power indicators.*
+➡️ More detail: [Camera Operation](../video/camera-operation.md) ·
+[TV Distribution](../displays/tv-distribution.md)
 
----
-
-## Step 6 — Turn on the RodeCaster Video
-
-The **RodeCaster Video** is the box that mixes the cameras together and sends
-the livestream to YouTube.
-
-1. Switch on the **RodeCaster Video**.
-2. Wait for its screen to load.
-
-➡️ More detail: [RodeCaster Video](../video/rodecaster-video.md)
-
-📷 *Screenshot placeholder: RodeCaster Video front panel.*
+📷 *Screenshot placeholder: top power strip switch (back of rack).*
 
 ---
 
-## Step 7 — Run your pre-service checks
+## Step 7 — Turn on both speakers
+
+We use **JBL SRX812P** powered speakers in the main auditorium.
+
+1. Find the **two light switches** on the **back of the rack, near the floor**.
+2. Switch **both** on.
+
+!!! note "What you should hear"
+    Nothing yet — that is normal. No microphones are open at this point.
+
+!!! warning "Speakers come on last"
+    Turning the speakers on last (after the mixer in Step 3) avoids a loud
+    "pop" through them.
+
+📷 *Screenshot placeholder: speaker light switches (back of rack, near floor).*
+
+---
+
+## Step 8 — Run your pre-service checks
 
 Before the service starts, check each part works.
 
@@ -135,7 +164,7 @@ Before the service starts, check each part works.
 
 ---
 
-## Step 8 — Start the livestream (just before 9:30am)
+## Step 9 — Start the livestream (at 9:25am)
 
 Do this a few minutes before the service begins.
 
@@ -148,9 +177,9 @@ Do this a few minutes before the service begins.
 ➡️ Full steps: [RodeCaster Video](../video/rodecaster-video.md)
 
 !!! warning "Start the stream a little early"
-    Start the livestream 2–3 minutes before 9:30am so online viewers do not
-    miss the opening. You can have a holding slide showing until the service
-    begins.
+    Start the livestream at **9:25am** — a few minutes before the 9:30am
+    service — so online viewers do not miss the opening. You can have a
+    holding slide showing until the service begins.
 
 ---
 

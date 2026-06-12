@@ -10,10 +10,11 @@ anything not as expected.
     2. Turn on the Rode Caster Video (Red push button once, back right)
     3. Turn on the A&H QU-5D Mixer (push button back right, near bottom power cable)
     4. Turn on the computer (push button on front of mini PC in rack)
-    5. Turn on Foyer amp (switch on front of amp at front of rack)
-    6. Turn on small devices (back of rack, power switch on top power strip)
-    7. Turn on both speakers (light switches on back of rack on the floor)
-    8. Check sound, slides, cameras, then **start the livestream at 9:25am**.
+    5. Turn on all TVs using the RTI 7" touch screen controller (just below the PC)
+    6. Turn on Foyer amp (switch on front of amp at front of rack)
+    7. Turn on small devices (back of rack, power switch on top power strip)
+    8. Turn on both speakers (light switches on back of rack on the floor)
+    9. Check sound, slides, cameras, then **start the livestream at 9:25am**.
 
 Follow the full steps below in order. Do not skip steps.
 
@@ -87,7 +88,24 @@ that makes the StreamDeck buttons work).
 
 ---
 
-## Step 5 — Turn on the foyer amplifier
+## Step 5 — Turn on the TVs (RTI touch screen)
+
+All the TVs are turned on from the **RTI 7" touch screen controller**, which
+sits **just below the PC**. The TVs are **not** powered by the rack power
+strip.
+
+1. On the **RTI touch screen**, choose the option to **turn on all TVs**.
+2. Confirm the **Front TV Left**, **Front TV Right** and **Rear Confidence
+   Monitor** come on. (Also turn on the **Fireplace TV** and **Meeting Room
+   TV** if those areas are in use.)
+
+➡️ More detail: [TV Distribution](../displays/tv-distribution.md)
+
+📷 *Screenshot placeholder: RTI 7" touch screen controller (just below the PC).*
+
+---
+
+## Step 6 — Turn on the foyer amplifier
 
 The **foyer amplifier** drives the foyer speakers so people in the foyer can
 hear the service.
@@ -102,7 +120,7 @@ hear the service.
 
 ---
 
-## Step 6 — Turn on the small devices
+## Step 7 — Turn on the small devices
 
 This powers the supporting equipment in the rack.
 
@@ -117,8 +135,9 @@ This powers the supporting equipment in the rack.
 !!! note "Confirm what is on this power strip"
     *[Mills IT to confirm]* — the top power strip is expected to power the
     supporting devices such as the **cameras**, the **Bluestream HDMI matrix**
-    and the **network/TV equipment**. Update this note once the exact list is
-    confirmed on site.
+    and the **network equipment**. The **TVs are not on this strip** — they are
+    powered from the RTI touch screen in Step 5. Update this note once the
+    exact list is confirmed on site.
 
 ➡️ More detail: [Camera Operation](../video/camera-operation.md) ·
 [TV Distribution](../displays/tv-distribution.md)
@@ -127,7 +146,7 @@ This powers the supporting equipment in the rack.
 
 ---
 
-## Step 7 — Turn on both speakers
+## Step 8 — Turn on both speakers
 
 We use **JBL SRX812P** powered speakers in the main auditorium.
 
@@ -145,7 +164,7 @@ We use **JBL SRX812P** powered speakers in the main auditorium.
 
 ---
 
-## Step 8 — Run your pre-service checks
+## Step 9 — Run your pre-service checks
 
 Before the service starts, check each part works.
 
@@ -164,7 +183,7 @@ Before the service starts, check each part works.
 
 ---
 
-## Step 9 — Start the livestream (at 9:25am)
+## Step 10 — Start the livestream (at 9:25am)
 
 Do this a few minutes before the service begins.
 

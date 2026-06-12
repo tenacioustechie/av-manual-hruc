@@ -22,6 +22,20 @@ which, what they normally show, and how the picture gets to them.
 
 ---
 
+## Two separate things: power and picture
+
+Two different systems control the TVs:
+
+- **Power (on/off)** is controlled by the **RTI 7" touch screen controller**,
+  located **just below the PC**. The TVs are **not** turned on by the rack
+  power strip.
+- **Picture (what they show)** comes from the **Bluestream HDMI Matrix**.
+
+So to get slides on a TV, the TV must be **turned on via the RTI** *and* the
+**matrix** must route the PowerPoint PC to it.
+
+---
+
 ## How the picture reaches the TVs
 
 All screens are fed from the **Bluestream HDMI Matrix**. A "matrix" is a smart
@@ -48,7 +62,8 @@ confidence monitor. The detail of changing the matrix is on the
 
 For most services you do **not** need to touch the matrix at all:
 
-1. Turn the TVs on at startup.
+1. Turn the TVs on at startup using the **RTI touch screen** (see
+   [Sunday Startup — Step 5](../quick-start/sunday-startup.md#step-5-turn-on-the-tvs-rti-touch-screen)).
 2. The matrix is already set to show the **PowerPoint PC** on the front TVs.
 3. Start the PowerPoint slideshow (press **F5**). See
    [PowerPoint Operation](../presentation/powerpoint-operation.md).
@@ -63,8 +78,9 @@ For most services you do **not** need to touch the matrix at all:
 ## Turning the external TVs on or off
 
 The **Fireplace TV** and **Meeting Room TV** are only used when those areas are
-in use. Turn them on with their remote / power button, and the matrix will feed
-them the slides if it is routed to do so.
+in use. Turn them on from the **RTI touch screen** (the same controller used for
+the other TVs), and the matrix will feed them the slides if it is routed to do
+so.
 
 ---
 

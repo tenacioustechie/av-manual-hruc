@@ -21,7 +21,7 @@ Your job during the service is to:
 ## Before the service starts
 
 - Confirm the livestream is **live** (you started it in
-  [Step 9 of startup](sunday-startup.md#step-9-start-the-livestream-at-925am)).
+  [Step 10 of startup](sunday-startup.md#step-10-start-the-livestream-at-925am)).
 - Have a **holding slide** showing (church name / welcome).
 - Make sure the lectern microphone is **on** and ready for the first speaker.
 

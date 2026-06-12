@@ -26,7 +26,7 @@ wrong picture.
 ```mermaid
 flowchart TD
     A[TV blank or wrong picture] --> B{Is the TV powered on?}
-    B -- No --> B1[Turn the TV on]
+    B -- No --> B1[Turn the TV on via the RTI touch screen]
     B -- Yes --> C{Does it show No Signal?}
     C -- Yes --> D{Is the TV on the correct HDMI input?}
     D -- No --> D1[Use TV remote: Source/Input to correct HDMI]
@@ -35,7 +35,8 @@ flowchart TD
     C -- No, shows desktop --> F[PowerPoint not full screen - press F5]
 ```
 
-1. **TV on?** Turn it on.
+1. **TV on?** Turn it on from the **RTI 7" touch screen** (just below the PC) —
+   the TVs are powered from the RTI, not the rack power strip.
 2. **"No Signal"?** Then the TV isn't receiving a picture:
     - **Wrong HDMI input:** Use the TV remote's **Source / Input** button and
       select the correct **HDMI** input.
@@ -52,6 +53,8 @@ flowchart TD
 
 If **every** screen is blank:
 
+- Check the TVs were **turned on from the RTI touch screen** (try "all on"
+  again).
 - Check the **Bluestream matrix** has power.
 - Check the **PowerPoint PC (NUC)** is on and outputting a picture.
 - See [TV Distribution](../displays/tv-distribution.md) and

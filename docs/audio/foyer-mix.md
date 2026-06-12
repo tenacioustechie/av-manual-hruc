@@ -43,7 +43,7 @@ Your only routine job is:
 1. At startup, make sure the **foyer amplifier is switched on**.
 2. During the service, if asked, check the foyer level sounds comfortable.
 
-➡️ Startup step: [Sunday Startup — Step 5](../quick-start/sunday-startup.md#step-5-turn-on-the-foyer-amplifier).
+➡️ Startup step: [Sunday Startup — Step 6](../quick-start/sunday-startup.md#step-6-turn-on-the-foyer-amplifier).
 
 ---
 

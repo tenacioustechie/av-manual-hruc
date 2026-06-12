@@ -75,7 +75,8 @@ maintainers and AI assistants all refer to the same things.
 
 | Equipment | Role | Details page |
 |-----------|------|--------------|
-| **Bluestream HDMI Matrix** | Routes the PC picture to the various screens | [Bluestream Matrix](../displays/bluestream-matrix.md) |
+| **Bluestream HDMI Matrix** | Routes the PC picture to the various screens (the **picture**) | [Bluestream Matrix](../displays/bluestream-matrix.md) |
+| **RTI 7" touch screen controller** | Turns the TVs on/off (the **power**); located just below the PC | [TV Distribution](../displays/tv-distribution.md) |
 
 ### Displays
 

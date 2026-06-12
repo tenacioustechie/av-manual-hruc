@@ -50,6 +50,11 @@ documentation. If a term in another page is unfamiliar, look it up here.
 : The box that decides **which picture shows on which screen**. See
   [Bluestream Matrix](../displays/bluestream-matrix.md).
 
+**RTI 7" touch screen controller**
+: The small touch screen **just below the PC** used to **turn the TVs on and
+  off**. It controls TV **power** only — the **picture** comes from the
+  Bluestream matrix. See [TV Distribution](../displays/tv-distribution.md).
+
 **Rode M5**
 : A pair of **wired condenser microphones** used for the **choir and organ**.
 

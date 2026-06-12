@@ -66,16 +66,58 @@ docs/
 - Screenshot placeholders are marked with `📷 *Screenshot placeholder: ...*` —
   replace with real images placed under `docs/assets/`.
 
+## TODO — open items to confirm
+
+Things to verify on site and then update in the docs. Tick off as completed.
+
+### Cameras
+
+- [ ] **Confirm how the cameras are turned on and off.**
+      The **AVKANS Joy Pro Controller** (PTZ controller) can turn the cameras
+      **off**, but it is **not confirmed** whether it can turn them back **on**
+      again. Establish the correct on/off method for both **Camera 1
+      (RoboShot HDMI 12)** and **Camera 2 (AVKANS 20X PTZ)**, then:
+    - Add a camera power-on step to `docs/quick-start/sunday-startup.md`
+      (currently flagged in **Step 7**), and a matching power-off step to
+      `docs/quick-start/sunday-shutdown.md`.
+    - Update the `*[Mills IT to confirm]*` note in Startup Step 7.
+    - If the cameras are simply **always-on** (e.g. powered over the network),
+      document that instead and remove the flag.
+
+### Site-specific details to fill in
+
+Several pages contain `*[add ...]*` / `*[Mills IT to confirm]*` placeholders
+for site-specific details (IP addresses, stream details, contact numbers,
+matrix mappings). Fill these in as the install is finalised:
+
+- [ ] `docs/system-design/equipment-list.md` — QU-5D scene names, YouTube/stream
+      details, matrix URL/IP and I/O map, camera IPs/presets, Companion config
+      backup location.
+- [ ] `docs/system-design/network-overview.md` — router/switch details, static
+      IP addresses, wired-vs-wireless, upload speed.
+- [ ] `docs/displays/bluestream-matrix.md` — matrix control URL/IP and the
+      input/output number map.
+- [ ] `docs/maintenance/regular-checks.md` — Mills IT contact details and
+      Sunday-morning/emergency contact.
+- [ ] `docs/presentation/streamdeck-buttons.md` — confirm the real StreamDeck
+      button labels match the documented "typical layout".
+
+### Diagrams and images
+
+- [ ] Replace the draft wiring diagram (`docs/assets/wiring-diagram-v3.png`,
+      shown on `docs/system-design/signal-flow.md`) once all connections and
+      channels are confirmed; remove the "draft" warning.
+- [ ] Replace the `📷 *Screenshot placeholder: ...*` markers with real photos
+      placed under `docs/assets/` (see `docs/assets/README.md` for the list).
+
+---
+
 ## Maintainer notes
 
-Several pages contain `*[add ...]*` placeholders for site-specific details
-(IP addresses, stream keys, contact numbers, matrix mappings). Mills IT should
-fill these in as the install is finalised — see:
-
-- `docs/system-design/equipment-list.md`
-- `docs/system-design/network-overview.md`
-- `docs/displays/bluestream-matrix.md`
-- `docs/maintenance/regular-checks.md`
+Mills IT maintains this system. The open items above are tracked in the docs
+with `*[add ...]*` and `*[Mills IT to confirm]*` markers — search the `docs/`
+folder for those strings to find every spot that still needs site-specific
+detail.
 
 ---
 

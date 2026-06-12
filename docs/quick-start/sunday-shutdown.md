@@ -63,7 +63,8 @@ floor** (the **JBL SRX812P** speakers).
 ## Step 4 — Turn off the small devices
 
 At the **back of the rack**, switch **off** the **power switch on the top
-power strip** (cameras and supporting devices).
+power strip** (the **three radio microphone receivers**, the **Apple TV** and
+the **Blu-ray player**).
 
 📷 *Screenshot placeholder: top power strip switch (back of rack).*
 

@@ -122,25 +122,25 @@ hear the service.
 
 ## Step 7 — Turn on the small devices
 
-This powers the supporting equipment in the rack.
+The **top power strip** powers the **three radio microphone receivers**, the
+**Apple TV**, and the **Blu-ray player**.
 
 1. At the **back of the rack**, find the **power switch on the top power
    strip**.
 2. Switch it **on**.
 
-!!! note "The cameras may move on their own"
-    When the cameras power on they "wake up" and may turn to point straight
-    ahead. This is normal.
+!!! warning "The radio mics need this strip switched on"
+    The **three radio microphone receivers** are powered from this strip. If it
+    is off, the handheld and headset radio mics (**Channels 2, 3 and 4**) will
+    not work — even with good batteries. Make sure this step is done before you
+    check the microphones in Step 9.
 
-!!! note "Confirm what is on this power strip"
-    *[Mills IT to confirm]* — the top power strip is expected to power the
-    supporting devices such as the **cameras**, the **Bluestream HDMI matrix**
-    and the **network equipment**. The **TVs are not on this strip** — they are
-    powered from the RTI touch screen in Step 5. Update this note once the
-    exact list is confirmed on site.
+!!! note "Where do the cameras get power?"
+    *[Mills IT to confirm]* — the cameras are **not** on this strip. Confirm how
+    they are powered (for example, always-on over the network) and add a step
+    here if the operator needs to switch them on.
 
-➡️ More detail: [Camera Operation](../video/camera-operation.md) ·
-[TV Distribution](../displays/tv-distribution.md)
+➡️ More detail: [Microphone Guide](../audio/microphone-guide.md)
 
 📷 *Screenshot placeholder: top power strip switch (back of rack).*
 

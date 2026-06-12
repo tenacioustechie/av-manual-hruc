@@ -90,6 +90,18 @@ maintainers and AI assistants all refer to the same things.
 
 ➡️ [TV Distribution](../displays/tv-distribution.md)
 
+### Media sources
+
+| Equipment | Role |
+|-----------|------|
+| **Apple TV** | HDMI media source (e.g. streamed/online content). Powered by the **top power strip**. |
+| **Blu-ray player** | HDMI media source for discs. Powered by the **top power strip**. |
+
+!!! note "Powered by the top power strip"
+    The Apple TV and Blu-ray player, together with the **three radio microphone
+    receivers**, are switched on/off by the **top power strip** at the back of
+    the rack (see [Sunday Startup — Step 7](../quick-start/sunday-startup.md#step-7-turn-on-the-small-devices)).
+
 ---
 
 ## Streaming

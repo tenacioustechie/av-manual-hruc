@@ -58,6 +58,12 @@ For **radio microphones (2, 3, 4)** the extra checks matter most:
    [Battery Replacement](../maintenance/battery-replacement.md).
 3. Is the person speaking **close enough** to the mic?
 
+!!! tip "If ALL three radio mics are dead at once"
+    The **three radio microphone receivers** are powered by the **top power
+    strip**. If **none** of Channels 2, 3 and 4 work (even with good
+    batteries), that strip is probably **off** — switch it on. See
+    [Sunday Startup — Step 7](../quick-start/sunday-startup.md#step-7-turn-on-the-small-devices).
+
 ➡️ Which mic is which: [Microphone Guide](../audio/microphone-guide.md).
 
 ---

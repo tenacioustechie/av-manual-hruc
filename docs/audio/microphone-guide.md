@@ -79,6 +79,12 @@ room a fuller sound during music.
     **battery is good**. A flat battery is the most common reason a radio mic
     "doesn't work". See [Battery Replacement](../maintenance/battery-replacement.md).
 
+!!! note "Radio mic receivers need the power strip on"
+    The **three radio microphone receivers** are powered by the **top power
+    strip** (Startup Step 7). If that strip is off, **none** of the radio mics
+    (Channels 2, 3 and 4) will work, even with fresh batteries. See
+    [Sunday Startup — Step 7](../quick-start/sunday-startup.md#step-7-turn-on-the-small-devices).
+
 ---
 
 ## Avoiding feedback (the loud squeal)
@@ -103,6 +109,7 @@ To avoid it:
 | Can't hear pulpit (Ch 5) | Fader down or muted | Raise fader 5, un-mute |
 | Can't hear a handheld (Ch 2/3) | Mic off or flat battery | Switch on / replace battery |
 | Can't hear headset (Ch 4) | Mic off or flat battery | Switch on / replace battery |
+| **None** of the radio mics work (Ch 2, 3, 4) | Receiver power strip off | Switch on the top power strip (Startup Step 7) |
 | Mic works in room, not online | Not in livestream mix | See [Livestream Mix](livestream-mix.md) |
 
 ➡️ More help: [No Sound](../troubleshooting/no-sound.md).

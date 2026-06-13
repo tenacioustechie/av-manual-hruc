@@ -48,6 +48,22 @@ shows its settings. For routine operation you rarely need this.
 The **main (LR) fader** controls the overall level going to the church
 speakers. Leave it at its marked position unless told otherwise.
 
+!!! warning "Check the L/R button is lit above the master fader"
+    The master fader can be switched to control **different mixes** — the
+    church speakers (**Main L/R**), the **foyer**, or the **livestream**. The
+    button labelled **L/R** above the master fader tells you which one you are
+    on:
+
+    - **L/R lit** = the master fader (and the channel faders) are controlling
+      the **main church speakers**. **This is what you want for normal
+      operation.**
+    - **L/R not lit** = you are looking at a different mix (foyer or
+      livestream). Moving faders now changes *that* mix, **not** the room
+      volume — a common cause of "I turned it up but nothing happened".
+
+    Before every service, glance at this button and make sure **L/R is lit**.
+    If it is not, press it so it lights up.
+
 ---
 
 ## How to do the everyday jobs

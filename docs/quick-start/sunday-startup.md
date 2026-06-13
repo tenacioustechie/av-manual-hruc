@@ -14,7 +14,8 @@ anything not as expected.
     6. Turn on Foyer amp (switch on front of amp at front of rack)
     7. Turn on small devices (back of rack, power switch on top power strip)
     8. Turn on both speakers (light switches on back of rack on the floor)
-    9. Check sound, slides, cameras, then **start the livestream at 9:25am**.
+    9. Check settings (recall the Sunday Service scene; confirm **L/R is lit** above the master fader)
+    10. Check sound, slides, cameras, then **start the livestream at 9:25am**.
 
 Follow the full steps below in order. Do not skip steps.
 
@@ -133,7 +134,7 @@ The **top power strip** powers the **three radio microphone receivers**, the
     The **three radio microphone receivers** are powered from this strip. If it
     is off, the handheld and headset radio mics (**Channels 2, 3 and 4**) will
     not work — even with good batteries. Make sure this step is done before you
-    check the microphones in Step 9.
+    check the microphones in Step 10.
 
 !!! note "Where do the cameras get power?"
     *[Mills IT to confirm]* — the cameras are **not** on this strip. Confirm how
@@ -164,7 +165,35 @@ We use **JBL SRX812P** powered speakers in the main auditorium.
 
 ---
 
-## Step 9 — Run your pre-service checks
+## Step 9 — Check key settings
+
+Before you test anything, make sure the desk is set to its normal Sunday
+starting point. This catches anything left changed from the last time the
+system was used.
+
+1. **Recall the Sunday Service scene on the mixer.** On the QU-5D touchscreen,
+   open **Scenes**, choose **Sunday Service**, and confirm **Recall**. This
+   resets the faders and routing to the known-good starting point.
+2. **Check the `L/R` button is lit above the master fader.** This confirms the
+   master fader is controlling the **main church speakers** — not the foyer or
+   livestream mix. If it is not lit, press it so it lights up.
+3. **Check the master fader is at its marked position** (not turned right down
+   or right up).
+
+!!! warning "Why the L/R light matters"
+    The master fader can be switched to control different mixes. If **L/R** is
+    not lit, you are adjusting the **foyer** or **livestream** mix instead of
+    the room. That is a common reason for "I moved the fader but the room
+    volume didn't change". Full explanation:
+    [QU-5D Mixer — Master / main fader](../audio/qu5d-overview.md#master-main-fader).
+
+➡️ More detail: [QU-5D Mixer](../audio/qu5d-overview.md)
+
+📷 *Screenshot placeholder: master fader with the L/R button lit (above the fader).*
+
+---
+
+## Step 10 — Run your pre-service checks
 
 Before the service starts, check each part works.
 
@@ -183,7 +212,7 @@ Before the service starts, check each part works.
 
 ---
 
-## Step 10 — Start the livestream (at 9:25am)
+## Step 11 — Start the livestream (at 9:25am)
 
 Do this a few minutes before the service begins.
 

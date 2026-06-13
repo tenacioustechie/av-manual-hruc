@@ -33,8 +33,16 @@ Step by step:
    the mixer on first, then the speakers.
 3. **Main fader up?** The **main (LR) fader** controls overall room volume.
    Raise it to its normal mark.
-4. **The mic in use — fader up and un-muted?** Raise that channel's fader and
+4. **Is the `L/R` button lit above the master fader?** If it is **not** lit,
+   the faders are controlling the foyer or livestream mix, not the room —
+   press **L/R** so it lights up, then test the faders again.
+5. **The mic in use — fader up and un-muted?** Raise that channel's fader and
    make sure its **MUTE** light is **off**.
+
+!!! tip "Moved a fader and nothing changed?"
+    Check the **L/R** button above the master fader is **lit**. If it is not,
+    you are adjusting a different mix and the room volume will not respond. See
+    [QU-5D Mixer — Master / main fader](../audio/qu5d-overview.md#master-main-fader).
 
 ➡️ Mixer controls: [QU-5D Mixer](../audio/qu5d-overview.md).
 

@@ -53,7 +53,7 @@ Do this only when you want the **normal Sunday starting point** to change.
    - Routing correct (room, foyer matrix, livestream matrix).
    - The **L/R** button **lit** above the master fader, master fader at its mark.
 
-**2. Open the Scenes screen** *[Mills IT to confirm: `Setup` → `Scenes`]*.
+**2. Open the Scenes screen** [`Scenes` Button under touch screen]
 
 **3. Select the existing Sunday slot.** Tap the **Sunday Service** scene in the
    list so it is highlighted. (You are overwriting this slot, not making a new
@@ -114,7 +114,7 @@ master record lives in
 
 | Slot | Scene name | Used for |
 |-----:|------------|----------|
-| *[add]* | Sunday Service | Normal 9:30am service |
+| 1 | Sunday Service | Normal 9:30am service |
 | *[add]* | *[add]* | *[add]* |
 
 ---

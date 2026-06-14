@@ -14,7 +14,7 @@ anything not as expected.
     6. Turn on Foyer amp (switch on front of amp at front of rack)
     7. Turn on small devices (back of rack, power switch on top power strip)
     8. Turn on both speakers (light switches on back of rack on the floor)
-    9. Check settings (recall the Sunday Service scene; confirm **L/R is lit** above the master fader)
+    9. Check settings (recall the Sunday Service scene; confirm **Layer A** and **L/R** are lit)
     10. Check sound, slides, cameras, then **start the livestream at 9:25am**.
 
 Follow the full steps below in order. Do not skip steps.
@@ -174,22 +174,27 @@ system was used.
 1. **Recall the Sunday Service scene on the mixer.** On the QU-5D touchscreen,
    open **Scenes**, choose **Sunday Service**, and confirm **Recall**. This
    resets the faders and routing to the known-good starting point.
-2. **Check the `L/R` button is lit above the master fader.** This confirms the
+2. **Check the `Layer A` button is lit (bottom left of the mixer).** This puts
+   the labelled microphone faders (Lectern, Handheld, etc.) under your hands. If
+   it is not lit, press it so it lights up.
+3. **Check the `L/R` button is lit above the master fader.** This confirms the
    master fader is controlling the **main church speakers** — not the foyer or
    livestream mix. If it is not lit, press it so it lights up.
-3. **Check the master fader is at its marked position** (not turned right down
+4. **Check the master fader is at its marked position** (not turned right down
    or right up).
 
-!!! warning "Why the L/R light matters"
-    The master fader can be switched to control different mixes. If **L/R** is
-    not lit, you are adjusting the **foyer** or **livestream** mix instead of
-    the room. That is a common reason for "I moved the fader but the room
-    volume didn't change". Full explanation:
-    [QU-5D Mixer — Master / main fader](../audio/qu5d-overview.md#master-main-fader).
+!!! warning "Why Layer A and L/R matter"
+    **Layer A** sets *which* faders you are touching; **L/R** sets *which mix*
+    the master fader controls. If **Layer A** is not lit, the faders may be on a
+    different bank (not the mics). If **L/R** is not lit, you are adjusting the
+    **foyer** or **livestream** mix instead of the room. Either one is a common
+    reason for "I moved the fader but nothing changed". Full explanation:
+    [Layers](../audio/qu5d-overview.md#layers-which-faders-you-control) and the
+    [L/R button](../audio/qu5d-overview.md#master-main-fader).
 
 ➡️ More detail: [QU-5D Mixer](../audio/qu5d-overview.md)
 
-📷 *Screenshot placeholder: master fader with the L/R button lit (above the fader).*
+📷 *Screenshot placeholder: Layer A button (bottom left) and the L/R button lit (above the master fader).*
 
 ---
 

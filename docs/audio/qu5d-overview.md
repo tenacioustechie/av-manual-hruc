@@ -33,6 +33,24 @@ Below each fader is a **MUTE** button.
     To quickly silence a microphone without losing your fader position, press
     **MUTE**. Press it again to bring it back.
 
+### Layers (which faders you control)
+
+The desk has more channels than it has physical faders, so the faders are
+organised into **layers** (banks). The **layer buttons** are at the **bottom
+left** of the mixer.
+
+- **Layer A lit** = the faders are the **main microphone / input channels**
+  (Lectern, Handheld, Headset, etc.). **This is the layer you want for normal
+  operation.**
+- **Another layer selected** = the same physical faders now control a
+  *different* set of channels, so the labels above them no longer match what you
+  are moving.
+
+!!! warning "Check Layer A is lit before a service"
+    If you move a fader and the expected microphone does not change, check the
+    **Layer A** button (bottom left) is **lit**. If it is not, press it — you
+    were on a different bank of channels.
+
 ### The touchscreen
 
 The **touchscreen** shows settings for whichever channel is **selected**. You

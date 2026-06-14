@@ -40,9 +40,14 @@ Step by step:
    make sure its **MUTE** light is **off**.
 
 !!! tip "Moved a fader and nothing changed?"
-    Check the **L/R** button above the master fader is **lit**. If it is not,
-    you are adjusting a different mix and the room volume will not respond. See
-    [QU-5D Mixer — Master / main fader](../audio/qu5d-overview.md#master-main-fader).
+    Two things to check on the mixer:
+
+    - The **L/R** button above the master fader is **lit** — otherwise you are
+      adjusting a different mix and the room volume will not respond. See
+      [Master / main fader](../audio/qu5d-overview.md#master-main-fader).
+    - The **Layer A** button (bottom left) is **lit** — otherwise the faders are
+      on a different bank of channels, not the mics. See
+      [Layers](../audio/qu5d-overview.md#layers-which-faders-you-control).
 
 ➡️ Mixer controls: [QU-5D Mixer](../audio/qu5d-overview.md).
 

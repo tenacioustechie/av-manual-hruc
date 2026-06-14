@@ -95,6 +95,7 @@ nav:
   - Audio:
       - Audio Overview: audio/overview.md
       - QU-5D Mixer: audio/qu5d-overview.md
+      - QU-5D Scenes: audio/qu5d-scenes.md
       - Microphone Guide: audio/microphone-guide.md
       - Foyer Mix: audio/foyer-mix.md
       - Livestream Mix: audio/livestream-mix.md

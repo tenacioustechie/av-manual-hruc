@@ -167,7 +167,7 @@ documentation. If a term in another page is unfamiliar, look it up here.
 
 **Scene** (QU-5D)
 : A **saved snapshot** of all mixer settings — recall it to return to the
-  normal Sunday setup.
+  normal Sunday setup. See [QU-5D Scenes](../audio/qu5d-scenes.md).
 
 **Power-cycle**
 : To turn a device **off, wait, and on again** — a common fix.

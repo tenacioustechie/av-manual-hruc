@@ -91,6 +91,9 @@ Sunday. If someone has changed things and you want to get back to normal:
     Recalling a scene is safe. **Saving / overwriting** a scene changes the
     starting point for everyone. Only do this if Mills IT has asked you to.
 
+➡️ Full guide to saving scenes and creating event scenes:
+[QU-5D Scenes](qu5d-scenes.md).
+
 📷 *Screenshot placeholder: Scenes screen on the QU-5D touchscreen.*
 
 ---

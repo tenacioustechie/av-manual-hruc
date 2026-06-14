@@ -74,9 +74,7 @@ Keep a simple log so problems aren't forgotten. Record:
 This system is maintained by **Mills IT**. For faults you can't resolve:
 
 - **Maintainer:** Mills IT
-- **Contact:** *[add phone / email here]*
-- **Best time to call:** *[add]*
-- **Emergency / Sunday-morning contact:** *[add]*
+- **Contact:** Simon or Marshall has Mills IT Contact details
 
 !!! note "Before you call"
     Check the relevant [Troubleshooting](../troubleshooting/no-sound.md) page

@@ -16,16 +16,16 @@ maintainers and AI assistants all refer to the same things.
 |-----------|------|--------------|
 | **Allen & Heath QU-5D** | Central audio mixer; creates the main, foyer and livestream mixes | [QU-5D Mixer](../audio/qu5d-overview.md) |
 | **JBL SRX812P** (powered speakers) | Main auditorium loudspeakers | [Audio Overview](../audio/overview.md) |
-| **Foyer amplifier** | Drives the foyer speakers | [Foyer Mix](../audio/foyer-mix.md) |
-| **Foyer speakers** | Play the foyer mix in the foyer | [Foyer Mix](../audio/foyer-mix.md) |
+| **Foyer amplifier** | Drives the foyer speakers RedBack 2x125W A4072B | [Foyer Mix](../audio/foyer-mix.md) |
+| **Foyer speakers** | Play the foyer mix in the foyer 100v roof disk speakers | [Foyer Mix](../audio/foyer-mix.md) |
 
 ### Microphones
 
 | Channel | Microphone | Type | Used for |
 |--------:|------------|------|----------|
 | 1 | Lectern Sennheiser condenser | Wired | Lectern speaker |
-| 2 | Handheld radio microphone | Wireless | Roving / guest |
-| 3 | Handheld radio microphone | Wireless | Roving / guest |
+| 2 | Handheld Roving radio microphone | Wireless | Roving / guest |
+| 3 | Handheld Elder radio microphone | Wireless | Roving / guest |
 | 4 | Headset radio microphone | Wireless | Hands-free leader |
 | 5 | Pulpit Sennheiser condenser | Wired | Pulpit speaker |
 | — | Stereo pair of Rode M5 condenser | Wired | Choir and organ |
@@ -121,8 +121,20 @@ Mills IT — record specifics here for long-term maintenance:
 
 - QU-5D scene name(s) used for Sunday: *[add]*
 - YouTube channel / stream details location: *[add]*
-- Bluestream matrix control URL/IP and input/output map: *[add]*
+- Fixed Device IP addresses are listed below in 'Network Details'
 - Camera IP addresses and preset numbers: *[add]*
 - Companion version and config backup location: *[add]*
 
 ➡️ See also [Signal Flow](signal-flow.md) and [Network Overview](network-overview.md).
+
+## Network Details
+
+| Device | IP Address |
+| --- | --- |
+| PC at Sounddesk | 192.168.1.16 ? |
+| QU-5 Mixer | 192.168.1.15 |
+| RodeCaster Video | 192.168.1.17 |
+| BluStream HDMI Matrix | 192.168.1.3 |
+| Camera 1 Roboshot | 192.168.1.4 |
+| Camera 2 AVKANS | 192.168.1.25 |
+| PTZ Controller AVKANS | 192.168.1.4 |
